@@ -1,2 +1,2 @@
 # meu-primeiro-app
-Repositório para aprendizado
+Repositório para aprendizado.
